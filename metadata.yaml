@@ -1,0 +1,28 @@
+_repo: George-Eliot_36847
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blind, Mathilde
+    birthdate: 1841
+    deathdate: 1896
+    gutenberg_agent_id: '38517'
+    url: http://www.gutenberg.org/2009/agents/38517
+    wikipedia: http://en.wikipedia.org/wiki/Mathilde_Blind
+description: ''
+gutenberg_issued: '2011-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eliot, George, 1819-1880'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- !lcc 'PR'
+title: George Eliot
+url: http://www.gutenberg.org/ebooks/36847
