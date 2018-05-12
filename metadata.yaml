@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38517
     wikipedia: http://en.wikipedia.org/wiki/Mathilde_Blind
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36847#George-Eliot
 gutenberg_issued: '2011-07-25'
 gutenberg_type: Text
 identifiers:
